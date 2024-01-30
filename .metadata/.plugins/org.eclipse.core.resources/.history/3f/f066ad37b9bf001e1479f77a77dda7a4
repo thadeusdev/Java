@@ -1,0 +1,14 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		int x = 123;
+		long y = 12345679802830423L;
+		
+		System.out.println("My number is: " + x);
+		System.out.println(y);
+
+	}
+
+}

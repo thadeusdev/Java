@@ -1,0 +1,9 @@
+INDEX VERSION 1.134+/home/thadeus/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+741864768.index
+2020134103.index
+2985286455.index
+1865797976.index
+124356391.index
+2428138262.index
+3889107254.index
+341061135.index
